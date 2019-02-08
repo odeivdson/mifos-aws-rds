@@ -101,3 +101,8 @@ Informações adicionais:
 - Teste de Plataforma @ https://[public DNS]/fineract-provider/api/v1/offices?tenantIdentifier=default&pretty=true
 
 - Documentação da API @ https://[public DNS]/api-docs/apiLive.htm
+
+
+__Referências:__
+
+- https://mifos.org/
